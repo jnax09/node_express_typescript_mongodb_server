@@ -1,4 +1,4 @@
-# Simple Node with Express Server using TypeScript
+# Node with Express Server using TypeScript
 
 An easy way to get started with a Express server with Node.js and Typescript
 
